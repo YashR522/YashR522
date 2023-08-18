@@ -20,7 +20,7 @@
 
 ---
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 - :telescope:I am a Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> student from Nirma University, Ahmedabad from India.
 
@@ -32,7 +32,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <p align="start">
 <img alt="HTML" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
