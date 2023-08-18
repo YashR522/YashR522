@@ -47,25 +47,15 @@
 <img  alt="Git" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
-<!--
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1111&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## 📚 Latest GitHub Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustubh1111&show_icons=true&locale=en&layout=compact" alt="Kaustubh1111" /></p>
+[![PARKING SPACE DETECTOR](https://github-readme-stats.vercel.app/api/pin/?username=YashR522&repo=PARKINGSPACEDETECTOR&show_owner=false)](https://github.com/YashR522/PARKING SPACE DETECTOR)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me-blue?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/YashR522)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaustubh1111&show_icons=true&locale=en" alt="Kaustubh1111" /></p>
--->
-<!--
-**Kaustubh1111/Kaustubh1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<img src="https://github-profile-trophy.vercel.app/?username=YashR522" alt="YashR522" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Yash Rathod's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashR522&show_icons=true&theme=gruvbox)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashR522&" alt="YashR522" />
