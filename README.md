@@ -48,20 +48,7 @@
 
 ## 📚 Latest GitHub Projects
 
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 300px;">
-    <h2>PARKING SPACE DETECTOR</h2>
-    <p>Description: A project for detecting available parking spaces.</p>
-    <p>Author: YashR522</p>
-    <p>GitHub Repository: <a href="https://github.com/YashR522/PARKING-SPACE-DETECTOR">PARKING-SPACE-DETECTOR</a></p>
-</div>
-
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 300px;">
-    <h2>PARKING SPACE DETECTOR</h2>
-    <p>Description: A project for detecting available parking spaces.</p>
-    <p>Author: YashR522</p>
-    <p>GitHub Repository: <a href="https://github.com/YashR522/PARKING-SPACE-DETECTOR">PARKING-SPACE-DETECTOR</a></p>
-</div>
-
+[![PARKING SPACE DETECTOR](https://github-readme-stats.vercel.app/api/pin/?username=YashR522&repo=PARKINGSPACEDETECTOR&show_owner=false)](https://github.com/YashR522/PARKING SPACE DETECTOR)
 [<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me-blue?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/YashR522)
 
 ## 📊 GitHub Stats
