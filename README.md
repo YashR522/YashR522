@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
@@ -11,11 +10,9 @@
 </div>
   <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I am Kaustubh
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I am Yash Rathod
 </h1>
 </div>
-
-
 
 <div align="center">
   <img src="https://github.com/rahul-jha98/rahul-jha98/blob/main/techstack.gif" width="600" height="300"/>
@@ -24,19 +21,19 @@
 ---
 
 ### :man_technologist: About Me :
+
 - :telescope:I am a Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> student from Nirma University, Ahmedabad from India.
 
 - :seedling: Exploring Technical contents...
 
 - :zap: I solve problems on various sites of Competitetive Programming and read tech articles.
 
--  💬  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kaustubh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-suthar1111/) and <a href="https://kaustubh1111.github.io/Portfolio_Website/" target="blank">Portfolio Website</a>
- 
-
+- 💬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yash%20Rathod-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yrathod89/) and <a href="#" target="blank">Portfolio Website</a>
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
