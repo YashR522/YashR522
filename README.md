@@ -49,6 +49,7 @@
 ## 📚 Latest GitHub Projects
 
 [![PARKING SPACE DETECTOR](https://github-readme-stats.vercel.app/api/pin/?username=YashR522&repo=PARKINGSPACEDETECTOR&show_owner=false)](https://github.com/YashR522/PARKING SPACE DETECTOR)
+
 [<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me-blue?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/YashR522)
 
 ## 📊 GitHub Stats
