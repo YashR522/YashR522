@@ -48,10 +48,10 @@
 
 ## 📚 Latest GitHub Projects
 
-[![PARKING SPACE DETECTOR](https://github-readme-stats.vercel.app/api/pin/?username=YashR522&repo=PARKING-SPACE-DETECTOR&show_owner=true)](https://github.com/YashR522/PARKING-SPACE-DETECTOR)
-[![SPI CALCULATOR](https://github-readme-stats.vercel.app/api/pin/?username=YashR522&repo=SPI-CALCULATOR&show_owner=true)](https://github.com/YashR522/SPI-CALCULATOR)
-[![OS CPU SCHEDUALING ALGORITHM](https://github-readme-stats.vercel.app/api/pin/?username=YashR522&repo=OS-CPU-SCHEDUALING-ALGORITHM&show_owner=true)](https://github.com/YashR522/OS-CPU-SCHEDUALING-ALGORITHM)
-[![THE DIGITAL VILLAGE](https://github-readme-stats.vercel.app/api/pin/?username=YashR522&repo=THE-DIGITAL-VILLAGE&show_owner=true)](https://github.com/YashR522/THE-DIGITAL-VILLAGE)
+[![PARKING SPACE DETECTOR](https://github-readme-stats.vercel.app/api/pin/?username=YashR522&repo=PARKING-SPACE-DETECTOR&show_owner=false)](https://github.com/YashR522/PARKING-SPACE-DETECTOR)
+[![SPI CALCULATOR](https://github-readme-stats.vercel.app/api/pin/?username=YashR522&repo=SPI-CALCULATOR&show_owner=false)](https://github.com/YashR522/SPI-CALCULATOR)
+[![OS CPU SCHEDUALING ALGORITHM](https://github-readme-stats.vercel.app/api/pin/?username=YashR522&repo=OS-CPU-SCHEDUALING-ALGORITHM&show_owner=false)](https://github.com/YashR522/OS-CPU-SCHEDUALING-ALGORITHM)
+[![THE DIGITAL VILLAGE](https://github-readme-stats.vercel.app/api/pin/?username=YashR522&repo=THE-DIGITAL-VILLAGE&show_owner=false)](https://github.com/YashR522/THE-DIGITAL-VILLAGE)
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me-blue?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/YashR522)
 
